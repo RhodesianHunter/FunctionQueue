@@ -5,7 +5,7 @@ A PHP Library to handle queuing functions to be run later.
 
 Steps to use:
 
-1. Queue_Data.php contains the class the needs to be edited for your storage. MySQL code provided in the comments assumes a table exists like this:
+1. Queue_Data.php contains the class that needs to be edited for your storage. MySQL code provided in the comments assumes a table exists like this:
 
 ```sql
     CREATE TABLE function_queue (
