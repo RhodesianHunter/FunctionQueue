@@ -1,7 +1,7 @@
 FunctionQueue
 =============
 
-A PHP Library to handle queueing functions to be run later.
+A PHP Library to handle queuing functions to be run later.
 
 Steps to use:
 
